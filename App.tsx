@@ -12,7 +12,7 @@ const APP_ID = 'san-valentin-2025-ultra-deluxe-v3';
 const DB_NAME = 'SanValentinDB'; 
 const DB_VERSION = 1; 
 const STORE_IMAGES = 'images'; 
-const WHATSAPP_NUMBER = '1234567890'; // Configura tu número real aquí
+const WHATSAPP_NUMBER = '922387916'; // Configura tu número real aquí
 
 // --- PRESETS DE FRASES ---
 const PRESET_PHRASES = [ 
