@@ -6,5 +6,4 @@ Este es un proyecto de demostración con una plantilla para San Valentín. Desar
    `npm install`
 2. Run the app:
    `npm run dev`
-3. Run the app:
-   `npm run dev`
+
